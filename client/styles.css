@@ -1,0 +1,58 @@
+.title{
+    text-align: center;
+    margin: 50px;
+       
+}
+
+.main{
+   
+  margin: auto;
+  width: 50%;
+  
+  padding: 10px;
+  border-radius: 5px;
+}
+.new-form, .loading {
+    margin: auto;
+    width: 55%;
+}
+
+.loading {
+    text-align: center;
+}
+
+button{
+    border-radius: 3px;
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+    
+}
+button:hover{
+
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+#name{
+    
+    
+}
+
+#content{
+    
+}
+
+.tweets {
+ margin-top: 20px;
+ margin-left: 10px;
+ border-color: black;
+}
+
+.tweets > div {
+    background: hsl(0, 0%, 95%);
+    padding: 9px;
+    border-radius: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
